@@ -2,7 +2,8 @@
 
 ## 特徴
 ---  
-これは[picodrive-funkey](https://github.com/DrUm78/picodrive-funkey)を利用して新たなエミュレータとして「Game Gear pico」を作成し、既存のGame Gear(mednafen)と共存させたFunkeyOSのイメージファイルです。
+これは[picodrive-funkey](https://github.com/DrUm78/picodrive-funkey)を利用して新たなエミュレータとして「Game Gear pico」を作成し、既存のGame Gear(mednafen)と共存させたFunkeyOSのイメージファイルです。  
+公式のFunkeyOSではGGでスケーリングを変更できませんでしたが、このアップデートによってGGでもスケーリングが変更可能になります。  
 また、[システムステータス表示にてバッテリー残量を表示する機能](https://github.com/game-de-it/RGnano/blob/main/battery.md)と[ゲーム中のスナップショットがゲームのサムネイルになる機能](https://github.com/game-de-it/RGnano/blob/main/snapshot.md)を搭載しています。  
 - **__注意__**  
   - GMenu2xでのみGame gear picoは動作します(RETROFEでの動作は調査中です)  

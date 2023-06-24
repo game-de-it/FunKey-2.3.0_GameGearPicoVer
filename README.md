@@ -14,7 +14,7 @@
 ## 手順  
 ---
 ###  ●OSイメージを使ってアップデートする場合
-1. リリースページ下部にある **「FunKey-rootfs-2.3.0_GameGearPicoVer.fwu」** ファイルをダウンロードします  
+1. [リリースページ](https://github.com/game-de-it/FunKey-2.3.0_GameGearPicoVer/releases/tag/FunKey-2.3.0_GameGearPicoVer)の下部にある **「FunKey-rootfs-2.3.0_GameGearPicoVer.fwu」** ファイルをダウンロードします  
 2. PCとRG nanoをUSBケーブルで接続し、本体側面にある電源ボタンを1回押して 「MOUNT USB」 を選択して実行します  
   <img src="https://github.com/game-de-it/RGnano/blob/main/asset/IMG_2218.jpeg" width="800">  
 

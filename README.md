@@ -6,9 +6,9 @@
 公式のFunkeyOSではGGでスケーリングを変更できませんでしたが、このアップデートによってGGでもスケーリングが変更可能になります。  
 また、[システムステータス表示にてバッテリー残量を表示する機能](https://github.com/game-de-it/RGnano/blob/main/battery.md)と[ゲーム中のスナップショットがゲームのサムネイルになる機能](https://github.com/game-de-it/RGnano/blob/main/snapshot.md)を搭載しています。  
 - **__注意__**  
-  - GMenu2xでのみGame gear picoは動作します(RETROFEでの動作は調査中です)  
   - このアップデートイメージファイルはFunkeyOSにのみ適用できます  
 (AnbernicOSにこのファイルを置いてもアップデートは動作しません)  
+  - GMenu2xでのみGame gear picoは動作します(RETROFEでの動作は調査中です)  
   - ROMファイル、サムネイル画像、セーブデータはそのまま保持されます
   - このアップデートイメージを適用した上で公式のアップデートイメージを適用した場合、本機能は全て削除されてしまいます
 
